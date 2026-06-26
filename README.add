@@ -1,0 +1,43 @@
+# SQL Practice
+
+This repository contains my SQL practice using the BikeStores dataset.
+
+## Contents
+
+- SQL practice questions
+- SQL solutions
+- BikeStores dataset
+- Queries organized by topic
+
+## Topics Covered
+
+- SELECT
+- DISTINCT
+- WHERE
+- ORDER BY
+- Aggregate Functions
+- GROUP BY
+- LIKE
+- IN
+- BETWEEN
+- INSERT
+- UPDATE
+- DELETE
+- ALTER
+- TRUNCATE
+- DROP
+
+## Repository Structure
+
+```
+Sql-Practice
+│
+├── README.md
+├── day1.sql
+└── SQL_BikeStores_Practice
+    └── Questions_and_Solutions.sql
+```
+
+## Dataset
+
+BikeStores
